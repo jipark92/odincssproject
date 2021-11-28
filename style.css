@@ -107,10 +107,9 @@ h1 {
 
 
 
-.img-dog {
-    margin-left: auto;
-    margin-right: auto;
-    
+.dogmain img {
+    width: 550px;
+    height: 335px;
 }
 
 .info img {
